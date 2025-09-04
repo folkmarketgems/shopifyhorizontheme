@@ -1,0 +1,2 @@
+# shopifyhorizontheme
+develop theme
